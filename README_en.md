@@ -7,6 +7,21 @@ It extracts anime data from MyAnimeList via the Jikan API, transforms it using P
 
 ---
 
+## 🎥 Screenshots
+
+### 🔍 Anime Search
+![Search Screenshot](images/search.png)
+
+### 🔥 Top Anime by Genre
+![Genre Screenshot](images/TopAnimebyGenre.png)
+
+### 🤖 Smart Recommendations (TF-IDF)
+![NPL Screenshot](images/NPL.png)
+
+### Genre Popularity
+![Genre Popularity Screenshot](images/GenrePopularity.png)
+---
+
 ## 🎯 Project Goals
 
 - Practice full ETL (Extract → Transform → Load)

@@ -5,6 +5,22 @@
 
 ---
 
+
+## 🎥 Screenshots
+
+### 🔍 Anime Search
+![Search Screenshot](images/search.png)
+
+### 🔥 Top Anime by Genre
+![Genre Screenshot](images/TopAnimebyGenre.png)
+
+### 🤖 Smart Recommendations (TF-IDF)
+![NPL Screenshot](images/NPL.png)
+
+### Genre Popularity
+![Genre Popularity Screenshot](images/GenrePopularity.png)
+---
+
 ## 🎯 أهداف المشروع
 
 - تطبيق عملي لخطوات الـ ETL (استخراج، تحويل، تحميل)
