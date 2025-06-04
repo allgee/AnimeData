@@ -6,6 +6,21 @@ A clean and practical data project that recommends anime titles based on genre u
 It extracts anime data from MyAnimeList via the Jikan API, transforms it using Python and Pandas, loads it into a PostgreSQL database, and allows filtering and recommendation via a Streamlit interface.
 
 ---
+## 🎥 Screenshots
+
+### 🔍 Anime Search
+![Search Screenshot](images/search.png)
+
+### 🔥 Top Anime by Genre
+![Genre Screenshot](images/TopAnimebyGenre.png)
+
+### 🤖 Smart Recommendations (TF-IDF)
+![NPL Screenshot](images/NPL.png)
+
+### Genre Popularity
+![Genre Popularity Screenshot](images/GenrePopularity.png)
+
+---
 
 ## 🎯 Project Goals
 
