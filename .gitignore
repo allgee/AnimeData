@@ -1,0 +1,28 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+
+# SQLite database or any local DB file
+*.db
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings (PyCharm)
+.idea/
+
+# Output or result files
+output/
+
+# .gitignore
+.env

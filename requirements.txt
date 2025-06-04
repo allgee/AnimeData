@@ -1,0 +1,32 @@
+# === Required Python Libraries for the Anime Recommender Project ===
+# Install all with: pip install -r requirements.txt
+
+requests~=2.32.3
+pandas~=2.2.3
+sqlalchemy~=2.0.41
+matplotlib      # For visualization (optional)
+
+# Optional for future use
+# === Required Python Packages for Anime Recommender Project ===
+# Install all dependencies using:
+# pip install -r requirements.txt
+
+# API requests (Jikan / MyAnimeList)
+requests
+
+# Data manipulation and cleaning
+pandas
+
+# Database connection and SQL abstraction
+sqlalchemy
+
+# Optional: Visualization
+matplotlib
+
+# Optional: Interactive web interface
+streamlit~=1.45.1
+
+# Environment variable management
+python-dotenv~=1.1.0
+
+scikit-learn~=1.4.2
